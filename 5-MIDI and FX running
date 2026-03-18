@@ -1,3 +1,5 @@
+// added debugging line for pitch factor
+
 #include <Arduino.h>
 #include <Control_Surface.h>
 #include <dsps_fft2r.h>   
